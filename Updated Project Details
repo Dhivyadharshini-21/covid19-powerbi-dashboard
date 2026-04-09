@@ -1,0 +1,38 @@
+# 🦠 COVID-19 Dashboard (Power BI)
+
+## 📌 Overview
+This project presents an interactive COVID-19 dashboard developed using Microsoft Power BI. The dashboard provides insights into confirmed cases, recoveries, deaths, and vaccination trends across different regions.
+
+## 🎯 Objectives
+- Analyze the global and regional spread of COVID-19.
+- Visualize trends in confirmed, recovered, and death cases.
+- Provide interactive insights using filters and slicers.
+- Support data-driven decision-making.
+
+## 🛠️ Tools & Technologies
+- Power BI
+- Microsoft Excel / CSV
+- Data Visualization
+- Data Cleaning and Transformation (Power Query)
+
+## 📊 Dashboard Features
+- Total confirmed, recovered, and death cases.
+- Country-wise and region-wise analysis.
+- Time-series trends of COVID-19 cases.
+- Interactive filters and slicers.
+- Vaccination progress (if included).
+
+
+## 📸 Dashboard Preview
+![Dashboard Preview](images/dashboard_overview.png)
+
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Interact with the dashboard using filters and slicers.
+
+## 👩‍💻 Author
+**Dhivyadharshini C D**  
+🎓 BSc Data Science  
+🔗 GitHub: https://github.com/Dhivyadharshini-21  
+🔗 LinkedIn: (linkedin.com/in/dhivya-dharshini-cd)
